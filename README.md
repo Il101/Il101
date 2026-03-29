@@ -38,13 +38,10 @@ My background in biology taught me structured thinking and research discipline, 
 - [**arbibot**](https://github.com/Il101/arbibot) — statistical arbitrage bot with scanner and risk controls
 - [**breakout-bot**](https://github.com/Il101/breakout-bot) — full-stack trading system (FastAPI + React)
 
-## GitHub Snapshot
-<div align="center">
-
-![Ilia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Il101&show_icons=true&theme=github_dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Il101&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
+## GitHub Focus
+- Building production-ready AI and automation projects
+- Writing clean APIs and practical tooling
+- Shipping portfolio repositories with clear documentation
 
 ---
 
