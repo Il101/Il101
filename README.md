@@ -43,6 +43,7 @@ Background in biology gave me structured thinking and research discipline. Now I
 
 ### AI & RAG
 
+- [**slide-speaker-main**](https://github.com/Il101/slide-speaker-main) — Multimodal AI presentation platform. 3 processing pipelines (Classic OCR, Vision LLM, Hybrid), TTS, synchronized visual effects. Stack: FastAPI, React, Redis, Celery, FFmpeg
 - [**admission-rag-bot**](https://github.com/Il101/admission-rag-bot) — Telegram RAG assistant with 3 pipeline variants (Simple / Conditional / Query-rewriting), hybrid dense+sparse retrieval (pgvector + Elasticsearch BM25), Docker Compose deploy
 - [**ExamAI**](https://github.com/Il101/ExamAI) — AI exam prep platform: Plan-and-Execute agent (Gemini 2.0 Flash), FSRS spaced repetition, async generation via Celery, 84/86 tests passing
 
