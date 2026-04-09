@@ -49,18 +49,21 @@ Background in biology gave me structured thinking and research discipline. Now I
 ### AI Automation & Integration
 
 - [**linkedin-mcp**](https://github.com/Il101/linkedin-mcp) — MCP server for LinkedIn post publishing via Claude, Cursor, Windsurf. Railway-deployable with SSE endpoint and Bearer auth
-- [**innsbruck-crm**](https://github.com/Il101/innsbruck-crm) — CRM with WhatsApp AI bot for DACH market: 24/7 German-language responses, lead qualification, auto-deal creation. React + Supabase + FastAPI + OpenAI
 
 ### Full-Stack
 
 - [**universal-tutor**](https://github.com/Il101/universal-tutor) — AI learning platform for any subject, tool-driven lesson generation, spaced repetition workflow
 - [**breakout-bot**](https://github.com/Il101/breakout-bot) — Full-stack crypto trading system with REST API, WebSocket real-time data, React dashboard
 
-## Commercial Product
+## Commercial & SaaS Projects
 
 **InnStruct** *(closed source)*
 AI SaaS that converts PDF documents into SCORM-compliant eLearning courses. Handles content extraction, structure generation, and interactive module authoring.
 Stack: Python, LangChain, pgvector, FastAPI, React
+
+**Innsbruck CRM** *(closed source)*
+B2B CRM tailored for the DACH market featuring a WhatsApp AI bot. Integrates multi-tenant architecture, 24/7 German-language AI support, lead qualification, and automatic deal creation.
+Stack: React, Supabase, FastAPI, OpenAI, WhatsApp Cloud API
 
 ---
 
