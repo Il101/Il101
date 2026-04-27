@@ -2,7 +2,7 @@
 
 # Ilia Zharikov
 
-`AI Engineer` • `Innsbruck, Austria`
+`Junior AI Application Developer` • `Innsbruck, Austria`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1400&color=58A6FF&center=true&vCenter=true&width=700&lines=RAG+Pipelines+%7C+AI+Agents+%7C+LLM+Integration;Building+AI-powered+products+for+real+users;Founder+%40+InnStruct+%E2%80%94+AI+SCORM+Authoring+SaaS)](https://git.io/typing-svg)
 
